@@ -19,19 +19,19 @@ d = customers_new.pop
 end
 
 def remove_element_from_start_of_array(array)
-
+a = customers_new.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-
+customers_new [1]
 end
 
 def retrieve_first_element_from_array(array)
-
+customers_new [0]
 end
 
 def retrieve_last_element_from_array(array)
-
+customers_new [3]
 end
 
 def update_element_from_index(array, index_number, element)
