@@ -3,12 +3,12 @@ def create_an_empty_array
 end
 
 def create_an_array
-customers = [1, 2, 3, 4]
+customers = ["a", "b", "c", "d"]
 end
 
 def add_element_to_end_of_array(array, element)
 
-customers << (5)
+customers << "d"
 
 end
 
