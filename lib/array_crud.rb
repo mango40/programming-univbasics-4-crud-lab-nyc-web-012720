@@ -35,5 +35,5 @@ customers_new [3]
 end
 
 def update_element_from_index(array, index_number, element)
-
+customers_new[3] ="Z"
 end
