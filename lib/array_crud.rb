@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-customers = [c1, c2, c3, c4]
+customers = [1, 2, 3, 4]
 
 end
 
