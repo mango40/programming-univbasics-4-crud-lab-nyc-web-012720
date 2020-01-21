@@ -7,7 +7,8 @@ customers_new = ["a", "b", "c", "d"]
 end
 
 def add_element_to_end_of_array(array, element)
-customers_new.push ("f")
+customers_new << "f"
+p customers_new
 end
 
 def add_element_to_start_of_array(array, element)
