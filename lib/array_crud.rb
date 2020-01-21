@@ -7,11 +7,11 @@ customers_new = ["a", "b", "c", "d"]
 end
 
 def add_element_to_end_of_array(array, element)
-customers_new << "f"
+customers_new.push ("f")
 end
 
 def add_element_to_start_of_array(array, element)
-customers_new.unshit ("g")
+customers_new.unshift ("g")
 end
 
 def remove_element_from_end_of_array(array)
